@@ -1,5 +1,6 @@
 {
-  "name": "rest-api",
+  "name": "blog-api",
+  "description": "NodeJS Blog API",
   "version": "1.0.0",
   "main": "./src/index.js",
   "author": "adamcuffe28@icloud.com",
